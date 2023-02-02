@@ -1,0 +1,2 @@
+# FirstPineScript
+Learning TradingView PineScript.
